@@ -1,9 +1,9 @@
 # Classifier-Algos
 
 It has all classifier algorithms 
-1. Logistic 
-2. ⁠decision Tree
+1. Logistic
+2. Decision Tree
 3. ⁠Random Forest
 4. ⁠Support vector machine 
-5. ⁠knn 
-6. ⁠navie
+5. ⁠K-NN
+6. ⁠Navie Bayes
